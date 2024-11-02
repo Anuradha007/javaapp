@@ -8,5 +8,7 @@
 </head>
 <body>
 <h1>This is about page</h1>
+<p>About us</p>>
+<a href="index.jsp">Home</a>
 </body>
 </html>
